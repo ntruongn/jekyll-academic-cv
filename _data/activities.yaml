@@ -1,0 +1,19 @@
+associate_editor:
+  - journal: Proc. of the ACM on Management of Data (PACMMOD)
+    years: [2025, 2026]
+  - conference: ICDE
+    years: [2025]
+
+chair_roles:
+  - role: Demo co-chair
+    conference: SIGMOD
+    year: 2023
+  - role: Tutorial co-chair
+    conference: EDBT
+    year: 2022
+
+pc_member:
+  - year: 2026
+    conferences: [SIGMOD (AE)]
+  - year: 2025
+    conferences: [SIGMOD (AE), ICDE (AE), EDBT, Phd Workshop@EDBT, FEVER@EMNLP, TRL@NeurIPS, TRL@ACL, QDB@VLDB, TaDA@VLDB, ACL ARR]

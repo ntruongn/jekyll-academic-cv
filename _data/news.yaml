@@ -1,0 +1,62 @@
+news:
+  - date: 2025-03
+    title: Logical and Physical Optimizations for SQL Query Execution over Large Language Models
+    venue: SIGMOD 2025
+    type: Research Paper
+    links: [code]
+  - date: 2025-03
+    title: "Beyond RAG: Task-Aware KV Cache Compression for Comprehensive Knowledge Reasoning"
+    type: Research Work
+    links: [pdf]
+  - date: 2025-03
+    title: Distinguished Reviewer Award
+    venue: EDBT 2025
+  - date: 2025-02
+    title: An LLM-Based Approach for Insight Generation in Data Analysis
+    venue: NAACL 2025
+    type: Long Paper
+    links: [pdf]
+  - date: 2025-01
+    title: Automated Detection of Tropes In Short Texts
+    venue: COLING
+  - date: 2024-11
+    title: CimpleKG A Continuously Updated Knowledge Graph on Misinformation, Factors and Fact-Checks
+    venue: ISWC 2024
+    award: Best Resource Paper
+  - date: 2024-11
+    title: FINCH Prompt-guided Key-Value Cache Compression for Large Language Models
+    venue: TACL
+    links: [pdf, code]
+  - date: 2024-11
+    title: Unknown Claims Generation of Fact-Checking Training Examples
+    venue: EMNLP 2024
+  - date: 2024-10
+    title: Data Void Exploits Tracking & Mitigation Strategies
+    venue: CIKM 2024
+    award: Best Paper
+  - date: 2024-10
+    title: Keynote on SQL and LLM
+    venue: BDA conference
+  - date: 2024-10
+    title: Course on 'Computational Methods to Counter Online Misinformation'
+    venue: IA2 Autumn School
+  - date: 2024-09
+    title: Awarded 3IA Chair
+    organization: Interdisciplinary Institute for Artificial Intelligence Cote d Azur
+  - date: 2024-08
+    title: Distinguished Reviewer Award
+    venue: VLDB 2024
+  - date: 2024-06
+    title: Generation of Training Examples for Tabular Natural Language Inference
+    venue: SIGMOD 2024
+    links: [pdf, code]
+  - date: 2024-05
+    title: Invited talk on 'SQL and Large Language Models A Marriage Made in Heaven?'
+    locations:
+      - MIT
+      - UMass
+      - Cornell Univ.
+      - NYU
+      - Exeter Univ.
+      - Huawei
+      - DBML@ICDE

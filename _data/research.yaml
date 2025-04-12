@@ -1,0 +1,326 @@
+categorys:
+  - name: "iot"
+    title: "Internet of Things"
+    description: "Research in IoT, including smart agriculture, smart cities, and edge computing."
+  - name: "security"
+    title: "Security"
+    description: "Research in security, including intrusion detection systems and cyber threats."
+
+research:
+  - title: "FormerLeaf: An efficient vision transformer for Cassava Leaf Disease detection"
+    authors: "HT Thai, KH Le, NLT Nguyen"
+    publication: "Computers and Electronics in Agriculture 204, 107518"
+    year: 2023
+    category: "iot"
+
+  - title: "Realguard: A lightweight network intrusion detection system for IoT gateways"
+    authors: "XH Nguyen, XD Nguyen, HH Huynh, KH Le"
+    publication: "Sensors 22 (2), 432"
+    year: 2022
+    category: "security"
+
+  - title: "IMIDS: An intelligent intrusion detection system against cyber threats in IoT"
+    authors: "KH Le, MH Nguyen, TD Tran, ND Tran"
+    publication: "Electronics 11 (4), 524"
+    year: 2022
+    category: "security"
+
+  - title: "Artificial cognition for early leaf disease detection using vision transformers"
+    authors: "HT Thai, NY Tran-Van, KH Le"
+    publication: "2021 International Conference on Advanced Technologies for Communications …"
+    year: 2021
+    category: "iot"
+
+  - title: "Robust detection of unknown DoS/DDoS attacks in IoT networks using a hybrid learning model"
+    authors: "XH Nguyen, KH Le"
+    publication: "Internet of Things 23, 100851"
+    year: 2023
+    category: "security"
+
+  - title: "Towards AI‐based traffic counting system with edge computing"
+    authors: "DL Dinh, HN Nguyen, HT Thai, KH Le"
+    publication: "Journal of Advanced Transportation 2021 (1), 5551976"
+    year: 2021
+    category: "iot"
+
+  - title: "MidSiot: A multistage intrusion detection system for internet of things"
+    authors: "N Dat-Thinh, H Xuan-Ninh, L Kim-Hung"
+    publication: "Wireless Communications and Mobile Computing 2022 (1), 9173291"
+    year: 2022
+    category: "security"
+
+  - title: "Brainyedge: An ai-enabled framework for iot edge computing"
+    authors: "KH Le, KH Le-Minh, HT Thai"
+    publication: "ICT Express 9 (2), 211-221"
+    year: 2023
+    category: "iot"
+
+  - title: "User-driven error detection for time series with events"
+    authors: "KH Le, P Papotti"
+    publication: "2020 IEEE 36th International Conference on Data Engineering (ICDE), 745-757"
+    year: 2020
+    category: "iot"
+
+  - title: "Towards sustainable agriculture: A lightweight hybrid model and cloud-based collection of datasets for efficient leaf disease detection"
+    authors: "HT Thai, KH Le, NLT Nguyen"
+    publication: "Future Generation Computer Systems 148, 488-500"
+    year: 2023
+    category: "iot"
+
+  - title: "A scalable IoT framework to design logical data flow using virtual sensor"
+    authors: "L Kim-Hung, SK Datta, C Bonnet, F Hamon, A Boudonne"
+    publication: "2017 IEEE 13th International Conference on Wireless and Mobile Computing …"
+    year: 2017
+    category: "iot"
+
+  - title: "The robust scheme for intrusion detection system in internet of things"
+    authors: "DT Nguyen, KH Le"
+    publication: "Internet of Things 24, 100999"
+    year: 2023
+    category: "security"
+
+  - title: "Dlase: A light-weight framework supporting deep learning for edge devices"
+    authors: "KH Le Minh, KH Le, Q Le-Trung"
+    publication: "2020 4th International Conference on Recent Advances in Signal Processing …"
+    year: 2020
+    category: "iot"
+
+  - title: "User-driven adaptive sampling for massive internet of things"
+    authors: "L Kim-Hung, Q Le-Trung"
+    publication: "IEEE Access 8, 135798-135810"
+    year: 2020
+    category: "iot"
+
+  - title: "WoT-AD: A descriptive language for group of things in massive IoT"
+    authors: "KH Le, SK Datta, C Bonnet, F Hamon"
+    publication: "2019 IEEE 5th World Forum on Internet of Things (WF-IoT), 257-262"
+    year: 2019
+    category: "iot"
+
+  - title: "AirGen: GAN-based synthetic data generator for air monitoring in Smart City"
+    authors: "KH Le Minh, KH Le"
+    publication: "2021 IEEE 6th International Forum on Research and Technology for Society and …"
+    year: 2021
+    category: "iot"
+
+  - title: "An ensemble feature selection algorithm for machine learning based intrusion detection system"
+    authors: "PC Nguyen, QT Nguyen, KH Le"
+    publication: "2021 8th NAFOSTED Conference on Information and Computer Science (NICS), 50-54"
+    year: 2021
+    category: "security"
+
+  - title: "Odlie: On-demand deep learning framework for edge intelligence in industrial internet of things"
+    authors: "KH Le Minh, KH Le"
+    publication: "2021 8th NAFOSTED Conference on Information and Computer Science (NICS), 458-463"
+    year: 2021
+    category: "iot"
+
+  - title: "A real-time evaluation framework for machine learning-based ids"
+    authors: "AH Vu, MQ Nguyen-Khac, XT Do, KH Le"
+    publication: "Recent Advances in Internet of Things and Machine Learning: Real-World …"
+    year: 2022
+    category: "security"
+
+  - title: "Empirical performance evaluation of machine learning based DDoS attack detections"
+    authors: "BS Tran, TH Ho, TX Do, KH Le"
+    publication: "Recent Advances in Internet of Things and Machine Learning: real-World …"
+    year: 2022
+    category: "security"
+
+  - title: "DetectVul: A statement-level code vulnerability detection for Python"
+    authors: "HC Tran, AD Tran, KH Le"
+    publication: "Future Generation Computer Systems 163, 107504"
+    year: 2025
+    category: "security"
+
+  - title: "Toward a predictive smart parking system in IoT-enabled cities"
+    authors: "HT Thai, TL Nguyen-Tran, KH Le"
+    publication: "2022 9th NAFOSTED Conference on Information and Computer Science (NICS), 1-6"
+    year: 2022
+    category: "iot"
+
+  - title: "Towards Remote Deployment for Intrusion Detection System to IoT Edge Devices"
+    authors: "XT Do, KH Le"
+    publication: "Recent Advances in Internet of Things and Machine Learning: Real-World …"
+    year: 2022
+    category: "security"
+
+  - title: "An efficient framework for Vietnamese sentiment analysis"
+    authors: "CV Nguyen, KH Le, AM Tran, BT Nguyen"
+    publication: "Proceedings of The 18th International Conference on Intelligent Software …"
+    year: 2020
+    category: "security"
+
+  - title: "Towards generating semi-synthetic datasets for network intrusion detection system"
+    authors: "NT Nguyen, TN Le, KH Le-Minh, KH Le"
+    publication: "2023 International Conference on Information Networking (ICOIN), 62-66"
+    year: 2023
+    category: "security"
+
+  - title: "Towards an attention-based threat detection system for iot networks"
+    authors: "TN Nguyen, KM Dang, AD Tran, KH Le"
+    publication: "International Conference on Future Data and Security Engineering, 301-315"
+    year: 2022
+    category: "security"
+
+  - title: "Towards smart traffic lights based on deep learning and traffic flow information"
+    authors: "NY Tran-Van, XH Nguyerr, KH Le"
+    publication: "2022 9th NAFOSTED Conference on Information and Computer Science (NICS), 1-6"
+    year: 2022
+    category: "iot"
+
+  - title: "An industrial iot framework to simplify connection process using system-generated connector"
+    authors: "L Kim-Hung, SK Datta, C Bonnet, F Hamon, A Boudonne"
+    publication: "2017 IEEE 3rd International Forum on Research and Technologies for Society …"
+    year: 2017
+    category: "iot"
+
+  - title: "MobileH-Transformer: Enabling real-time leaf disease detection using hybrid deep learning approach for smart agriculture"
+    authors: "HT Thai, KH Le"
+    publication: "Crop Protection 189, 107002"
+    year: 2025
+    category: "iot"
+
+  - title: "A Multi-Input Bi-LSTM Autoencoder Model with Wavelet Transform for Air Quality Prediction"
+    authors: "MH Ho, NY Tran-Van, KH Le"
+    publication: "2024 International Conference on Multimedia Analysis and Pattern Recognition …"
+    year: 2024
+    category: "iot"
+
+  - title: "Enhancing explainability of machine learning-based intrusion detection systems"
+    authors: "TL Nguyen, XH Nguyen, KH Le"
+    publication: "2022 RIVF International Conference on Computing and Communication …"
+    year: 2022
+    category: "security"
+
+  - title: "Benchmarking svm variants for unsupervised intrusion detection system"
+    authors: "XH Nguyen, DT Nguyen, KH Le"
+    publication: "2023 RIVF International Conference on Computing and Communication …"
+    year: 2023
+    category: "security"
+
+  - title: "Deep feature selection for machine learning based attack detection systems"
+    authors: "MT Huynh, HT Le, XH Nguyen, KH Le"
+    publication: "2022 IEEE International Conference on Communication, Networks and Satellite …"
+    year: 2022
+    category: "security"
+
+  - title: "Towards a high-performance threat-aware system for software-defined networks"
+    authors: "VT Nguyen, VC Hoang, XH Nguyen, KH Le"
+    publication: "2022 International Conference on Advanced Technologies for Communications …"
+    year: 2022
+    category: "security"
+
+  - title: "LS-SPP: A LSTM-Based Solar Power Prediction Method from Weather Forecast Information"
+    authors: "NT Pham, NY Tran-Van, KH Le"
+    publication: "2021 8th NAFOSTED Conference on Information and Computer Science (NICS), 144-148"
+    year: 2021
+    category: "iot"
+
+  - title: "XSShield: A novel dataset and lightweight hybrid deep learning model for XSS attack detection"
+    authors: "GH Luu, MK Duong, TP Pham-Ngo, TS Ngo, DT Nguyen, XH Nguyen, ..."
+    publication: "Results in Engineering 24, 103363"
+    year: 2024
+    category: "security"
+
+  - title: "Deep learning models for UAV-assisted bridge inspection: A YOLO benchmark analysis"
+    authors: "TN Phan, HH Nguyen, HT Thai, KH Le"
+    publication: "2024 International Conference on Advanced Technologies for Communications …"
+    year: 2024
+    category: "iot"
+
+  - title: "An automated benchmarking framework for anomaly-based intrusion detection systems"
+    authors: "XH Nguyen, KH Le"
+    publication: "2024 International Conference on Multimedia Analysis and Pattern Recognition …"
+    year: 2024
+    category: "security"
+
+  - title: "Towards real-time outdoor air quality prediction using a hybrid model based on internet of things devices"
+    authors: "NY Tran-Van, HT Thai, KH Le-Minh, KH Le"
+    publication: "2023 IEEE International Conference on Communication, Networks and Satellite …"
+    year: 2023
+    category: "iot"
+
+  - title: "A Real-time Border Surveillance System using Deep Learning and Edge Computing"
+    authors: "DK Luong-Huu, TA Ngo, HT Thai, KH Le"
+    publication: "2022 RIVF International Conference on Computing and Communication …"
+    year: 2022
+    category: "security"
+
+  - title: "Preventing Adversarial Attacks Against Deep Learning-Based Intrusion Detection System"
+    authors: "XH Nguyen, XD Nguyen, KH Le"
+    publication: "International Conference on Information Security Practice and Experience …"
+    year: 2022
+    category: "security"
+
+  - title: "A lightweight machine-learning based wireless link estimation for iot devices"
+    authors: "KH Le-Minh, KH Le, Q Le-Trung"
+    publication: "2022 27th Asia Pacific Conference on Communications (APCC), 526-531"
+    year: 2022
+    category: "iot"
+
+  - title: "EF-CenterNet: An efficient anchor-free model for UAV-based banana leaf disease detection"
+    authors: "HT Thai, KH Le, NLT Nguyen"
+    publication: "Computers and Electronics in Agriculture 231, 109927"
+    year: 2025
+    category: "iot"
+
+  - title: "nNFST: A single-model approach for multiclass novelty detection in network intrusion detection systems"
+    authors: "XH Nguyen, KH Le"
+    publication: "Journal of Network and Computer Applications, 104128"
+    year: 2025
+    category: "security"
+
+  - title: "TinyResViT: A lightweight hybrid deep learning model for on-device corn leaf disease detection"
+    authors: "VL Truong-Dang, HT Thai, KH Le"
+    publication: "Internet of Things, 101495"
+    year: 2025
+    category: "iot"
+
+  - title: "DeepNIDS: A Deep Neural Network-Based Network Intrusion Detection System for IoT"
+    authors: "XD Nguyen, XH Nguyen, HH Huynh, KH Le-Minh, KH Le"
+    publication: "2024 IEEE International Conference on Communication, Networks and Satellite …"
+    year: 2024
+    category: "security"
+
+  - title: "BERT-Enhanced DGA Botnet Detection: A Comparative Analysis of Machine Learning and Deep Learning Models"
+    authors: "Q Cao, P Dao-Hoang, DT Nguyen, XH Nguyen, KH Le"
+    publication: "2024 13th International Conference on Control, Automation and Information …"
+    year: 2024
+    category: "security"
+
+  - title: "Advancing Phishing Attack Detection with a Novel Dataset and Deep Learning Solution"
+    authors: "KH Le, QK., Nguyen, QA., Nguyen, DT., Nguyen, XH., Le"
+    publication: "The 13th Conference on Information Technology and Its Applications, 536–547"
+    year: 2024
+    category: "security"
+
+  - title: "An Effective Unsupervised Cyber Attack Detection on Web Applications Using Gaussian Mixture Model"
+    authors: "KH Tran-Thi, MH., Ngo, TK., Le, XH., Nguyen, DT., Nguyen, XH., Le"
+    publication: "The 13th Conference on Information Technology and Its Applications, 485-496"
+    year: 2024
+    category: "security"
+
+  - title: "The Impact of Rotational Invariance on Tree-and Deep Learning-Based Network Intrusion Detection System"
+    authors: "DT Nguyen, XH Nguyen, KH Le"
+    publication: "2023 RIVF International Conference on Computing and Communication …"
+    year: 2023
+    category: "security"
+
+  - title: "An Edge-based Fire Detection System for Real-Time IoT Applications"
+    authors: "HT Thai, NY Tran-Van, KH Le-Minh, KH Le"
+    publication: "2023 IEEE International Conference on Communication, Networks and Satellite …"
+    year: 2023
+    category: "iot"
+
+  - title: "LS-TFP: A LSTM-Based Traffic Flow Prediction Method in Intelligent Internet of Things"
+    authors: "NY Tran-Van, NT Pham, KH Le"
+    publication: "Proceedings of the International Conference on Cognitive and Intelligent …"
+    year: 2022
+    category: "iot"
+
+  - title: "Towards a Robust and Scalable Information Retrieval Framework in Big Data Context"
+    authors: "HL Nguyen, TN Trinh-Huynh, KH Le"
+    publication: "2022 9th NAFOSTED Conference on Information and Computer Science (NICS), 211-216"
+    year: 2022
+    category: "iot"
