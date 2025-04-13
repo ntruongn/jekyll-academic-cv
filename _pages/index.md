@@ -8,7 +8,7 @@ author_profile: true
 Paolo Papotti got his Ph.D. degree from the University of Roma Tre (Italy) in 2007 and is an associate professor in the Data Science department at EURECOM (France) since 2017. Before joining EURECOM, he has been a scientist in the data analytics group at QCRI (Qatar) and an assistant professor at Arizona State University (USA). His research is in the broad areas of scalable data management and NLP, with a focus on data integration and information quality.
 
 ## News
-<a href="{{ site.url }}/{{ site.baseurl }}/news/">(Complete list)</a>
+<a href="{{ site.url }}{{ site.baseurl }}/news/">(Complete list)</a>
 <ul style="list-style-type: none; padding-left: 0;">
   {% assign sorted_news = site.data.news.news | sort: "date" | reverse %}
   {% for item in sorted_news limit:10 %}
@@ -36,7 +36,7 @@ Paolo Papotti got his Ph.D. degree from the University of Roma Tre (Italy) in 20
 </ul>
 
 ## Recent Activities 
-<a href="{{ site.url }}/{{ site.baseurl }}/activities/">(Complete list)</a>
+<a href="{{ site.url }}{{ site.baseurl }}/activities/">(Complete list)</a>
 <ul>
 <li>Associate Editor:
 
