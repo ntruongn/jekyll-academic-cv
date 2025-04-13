@@ -1,6 +1,6 @@
 ---
 title: Activities
-permalink: /activities
+permalink: /activities/
 author_profile: true
 ---
 {% include base_path %}
